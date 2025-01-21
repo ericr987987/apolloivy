@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "db266622bdc38564",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a514c4f001907da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b4dba764ebd7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool Headings.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cool Headings"
+            }
+          },
+          {
+            "id": "5608fa8b849a3112",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool Headings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cool Headings"
+            }
+          },
+          {
+            "id": "bf3c722c7cacaa9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manifesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manifesto"
+            }
+          },
+          {
+            "id": "d283154bd762a3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ivy's Favorite Wrestlers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ivy's Favorite Wrestlers"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70870277350c60d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a482e04f7f60e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3be904a8255770f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b091a697dccdec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "092cc793f9cc8ad3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43b1bd061c2b51a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c442c66321913bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7255c2e648d01596",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manifesto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Manifesto"
+            }
+          },
+          {
+            "id": "80f6e587dc2954c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manifesto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Manifesto"
+            }
+          },
+          {
+            "id": "c38dcde9e930cf3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bdebd07df5f76155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manifesto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Manifesto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bf3c722c7cacaa9b",
+  "lastOpenFiles": [
+    "Still Cold.md",
+    "Cold.md",
+    "Ivy's Favorite Wrestlers.md",
+    "Apollo's Favorites Wrestlers.md",
+    "Cool Headings.md",
+    "Apollo and Ivy.md",
+    "Far and Fast.md",
+    "Forrest Gump.md",
+    "Link to Manifesto.md",
+    "Manifesto.md",
+    "Pasted image 20250120170309.png",
+    "Pasted image 20250121093011.png",
+    "Pasted image 20250120155830.png",
+    "Pasted image 20250120155800.png",
+    "Pasted image 20250120155645.png",
+    "Pasted image 20250120155442.png",
+    "Pasted image 20250120153821.png",
+    "Pasted image 20250103141540.png",
+    "Pasted image 20250103142351.png",
+    "Pasted image 20250103142325.png",
+    "www.espn.com.md",
+    "This.md",
+    "Welcome.md"
+  ]
+}
