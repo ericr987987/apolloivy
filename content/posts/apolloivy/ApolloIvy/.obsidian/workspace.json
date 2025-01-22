@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8a514c4f001907da",
+        "id": "03d6b54ac474d830",
         "type": "tabs",
         "children": [
           {
-            "id": "48b4dba764ebd7d0",
+            "id": "9f144d73e55be780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool Headings.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cool Headings"
-            }
-          },
-          {
-            "id": "5608fa8b849a3112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cool Headings.md",
+                "file": "Maybe a large pizza.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cool Headings"
-            }
-          },
-          {
-            "id": "bf3c722c7cacaa9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifesto.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Manifesto"
-            }
-          },
-          {
-            "id": "57ee7f7e629f6245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EMRWO Favorite Wrestler.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EMRWO Favorite Wrestler"
-            }
-          },
-          {
-            "id": "7e51c3cfe16b9e1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warmer Today.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Warmer Today"
-            }
-          },
-          {
-            "id": "a303166d0d8e5705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warmer Today.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Warmer Today"
-            }
-          },
-          {
-            "id": "d283154bd762a3ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventure Van.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adventure Van"
+              "title": "Maybe a large pizza"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Van.md",
+                "file": "Maybe a large pizza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adventure Van"
+              "title": "Backlinks for Maybe a large pizza"
             }
           },
           {
@@ -247,12 +162,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d283154bd762a3ab",
+  "active": "9f144d73e55be780",
   "lastOpenFiles": [
+    "Pasted image 20250122135143.png",
+    "Adventure Van.md",
+    "Maybe a large pizza.md",
     "Pasted image 20250122105725.png",
     "Ivy's Favorite Wrestlers.md",
     "Warmer Today.md",
-    "Adventure Van.md",
     "Pasted image 20250122104554.png",
     "Link to Manifesto.md",
     "EMRWO Favorite Wrestler.md",
@@ -272,7 +189,6 @@
     "Pasted image 20250120155645.png",
     "Pasted image 20250120155442.png",
     "Pasted image 20250120153821.png",
-    "Pasted image 20250103141540.png",
     "www.espn.com.md",
     "This.md",
     "Welcome.md"
